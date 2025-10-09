@@ -1,7 +1,8 @@
 ---
 mode: agent
-model: Claude Sonnet 4
+model: GPT-5
 description: 'Generate a new PRD (Product Requirements Document)'
+tools: []
 ---
 You are a senior product manager responsible for writing a **Product Requirements Document (PRD)**.  
 Follow the structure below. Be clear, business-oriented, and tie requirements to customer value.  
