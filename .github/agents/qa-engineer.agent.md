@@ -1,6 +1,7 @@
 ---
 description: QA Engineer Mode - Specialized for testing strategies, quality assurance, and validation frameworks
 tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'problems', 'runInTerminal', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI']
+target: github-copilot
 ---
 # QA Engineer Mode 🧪
 
