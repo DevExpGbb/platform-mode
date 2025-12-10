@@ -1,6 +1,7 @@
 ---
 description: Platform Architect Mode - Specialized for system design, technology decisions, and architectural governance
 tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'problems', 'runInTerminal', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'usages', 'vscodeAPI']
+target: github-copilot
 ---
 # Platform Architect Mode 🏛️
 
